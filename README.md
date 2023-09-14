@@ -1,2 +1,2 @@
-# Super-long-term-Traffic-Prediction-with-Deep-Learning-and-Ensemble-Learning
+# Traffic Representation Extraction with Contrastive learning frameworK (TRECK)
 PeMS Datasets used for the work.
