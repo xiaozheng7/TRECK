@@ -1,7 +1,7 @@
 # Traffic Representation Extraction with Contrastive learning frameworK (TRECK)
 ![License](https://img.shields.io/badge/license-Apache-green)![Python](https://img.shields.io/badge/-Python-blue)![PyTorch](https://img.shields.io/badge/-PyTorch-red)
 
-Implementation of **TRECK: Long-Term Traffic Forecasting With Contrastive Representation Learning**. This work has been published in *IEEE Transactions on Intelligent Transportation Systems* (10.1109/TITS.2024.3421328).
+Implementation of **TRECK: Long-Term Traffic Forecasting With Contrastive Representation Learning**. This work has been published in *IEEE Transactions on Intelligent Transportation Systems* (https://ieeexplore.ieee.org/document/10596071).
 
 <p align="center">
 <img src=".\image\fig 2 (a).svg" height = "360" alt="" align=center />
