@@ -13,15 +13,22 @@ Implementation of **TRECK: Long-Term Traffic Forecasting with Contrastive Repres
 ## Datasets
 Datasets in this paper are collected from [the Caltrans Performance Measurement System (PeMS)](https://pems.dot.ca.gov/) and are available at [Google Drive](https://drive.google.com/file/d/1oqMvSZBfvDbpFwKU4HzqgteyW4Wkpwsj/view?usp=drive_link).
 
+
+
+
 ## Cite this work
-@ARTICLE{10596071, 
-  author={Zheng, Xiao and Bagloee, Saeed Asadi and Sarvi, Majid},  
-  journal={IEEE Transactions on Intelligent Transportation Systems},   
-  title={TRECK: Long-Term Traffic Forecasting With Contrastive Representation Learning},   
+```
+@ARTICLE{10596071,
+  author={Zheng, Xiao and Bagloee, Saeed Asadi and Sarvi, Majid},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={TRECK: Long-Term Traffic Forecasting With Contrastive Representation Learning}, 
   year={2024},
-  volume={},
-  number={}, 
-  pages={1-14}, 
-  keywords={Forecasting;Predictive models;Representation learning;Contrastive learning;Data models;Task analysis;Casting;Traffic forecasting;contrastive learning;LSTM;Transformer;GNN;prediction interval}, 
+  volume={25},
+  number={11},
+  pages={16964-16977},
+  keywords={Forecasting;Predictive models;Representation learning;Contrastive learning;Data models;Task analysis;Casting;Traffic forecasting;contrastive learning;LSTM;Transformer;GNN;prediction interval},
   doi={10.1109/TITS.2024.3421328}}
+
+```
+
 
