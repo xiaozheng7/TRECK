@@ -9,10 +9,21 @@ Implementation of **TRECK: Long-Term Traffic Forecasting with Contrastive Repres
 <b>Figure 1.</b> Representation generation with TRECK (encoding stage).
 </p>
 
+<p align="center">
+<img src=".\image\fig 2 (a).svg" height = "360" alt="" align=center />
+<br><br>
+<b>Figure 1.</b> Representation generation with TRECK (encoding stage).
+</p>
+
 
 ## Datasets
-Datasets in this paper are collected from [the Caltrans Performance Measurement System (PeMS)](https://pems.dot.ca.gov/) and are available at [Google Drive](https://drive.google.com/file/d/1oqMvSZBfvDbpFwKU4HzqgteyW4Wkpwsj/view?usp=drive_link).
+A spatial-temporal traffic flow dataset with 60 detectors spanning 3 years is studied in this paper. They are gathered from vehicle detector stations (VDS) equipped with loop detectors in San Diego, which is collected from [the Caltrans Performance Measurement System (PeMS)](https://pems.dot.ca.gov/). We share this dataset at [Google Drive](https://drive.google.com/file/d/1oqMvSZBfvDbpFwKU4HzqgteyW4Wkpwsj/view?usp=drive_link).
 
+<p align="center">
+<img src=".\image\detector_distribution.svg" height = "360" alt="" align=center />
+<br><br>
+<b>Figure 2.</b> Loop detector distribution.
+</p>
 
 
 
